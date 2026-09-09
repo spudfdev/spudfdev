@@ -2,7 +2,6 @@
 
 🎓 **2nd Year Computer Science Student @ University of Sheffield** <br />
 💻 Passionate about **software engineering, AI, and game development** <br />
-🚀 Seeking a Technology **Industrial Placement (2026–2027)**
 
 ---
 
